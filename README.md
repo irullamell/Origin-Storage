@@ -1,9 +1,43 @@
-<!-- Project Title -->
-<h1 align="center">
-  <img src="[link_to_space_logo](https://telegra.ph/file/a2ab57912525f9e630c07.jpg)" alt="Origin" width="400px">
+<!-- Animated Starfield ASCII Art -->
+<div align="center">
+  <pre>
+          .          .
+    *  .  *    .    *  .
+  .  *  .    *     .  *
+   .  .     *   .
+  *    .  *    .  *
+          .
+  </pre>
+</div>
+
+<!-- Project Title with Background Image -->
+<div align="center" style="background-image: url('link_to_space_background'); background-size: cover; padding: 50px;">
+  <img src="link_to_space_logo" alt="Space Logo" width="400px">
   <br>
-  WhatsApp Bot
-</h1>
+  <h1 style="color: white;">Galactic Odyssey</h1>
+</div>
+
+<!-- ASCII Art Spaceship -->
+<div align="center">
+  <pre>
+                   |
+                  / \
+                 / _ \
+                | / \ |
+                ||   ||
+                ||   ||
+                ||   ||
+        _______||___||_______
+       ///////////|\\\\\\\\\\\\\
+     /////////////|\\\\\\\\\\\\\\\
+    |^^^^^^^^^^^^^^^^^^^^^^^^^|
+    |  Galactic Odyssey  |
+    |    __    __    __    __   |
+    |   |__|  |__|  |__|  |__|  |
+    |^^^^^^^^^^^^^^^^^^^^^^^^^|
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  </pre>
+</div>
 
 <!-- Project Description -->
 <p align="center">Embark on an epic interstellar journey through the cosmos with Galactic Odyssey. Explore distant galaxies, discover celestial wonders, and experience the marvels of space.</p>
