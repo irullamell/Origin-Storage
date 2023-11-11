@@ -12,9 +12,9 @@
 
 <!-- Project Title with Background Image -->
 <div align="center" style="background-image: url('link_to_space_background'); background-size: cover; padding: 50px;">
-  <img src="link_to_space_logo" alt="Space Logo" width="400px">
+  <img src="https://telegra.ph/file/a2ab57912525f9e630c07.jpg" alt="Space Logo" width="400px">
   <br>
-  <h1 style="color: white;">Galactic Odyssey</h1>
+"color: white;">Galactic Odyssey</h1>
 </div>
 
 <!-- ASCII Art Spaceship -->
