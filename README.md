@@ -1,8 +1,8 @@
 <!-- Project Title -->
 <h1 align="center">
-  <img src="link_to_space_logo" alt="Space Logo" width="400px">
+  <img src="[link_to_space_logo](https://telegra.ph/file/a2ab57912525f9e630c07.jpg)" alt="Origin" width="400px">
   <br>
-  Galactic Odyssey
+  WhatsApp Bot
 </h1>
 
 <!-- Project Description -->
