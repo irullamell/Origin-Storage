@@ -11,11 +11,9 @@
 </div>
 
 <!-- Project Title with Background Image -->
-<div align="center" style="background-image: url('link_to_space_background'); background-size: cover; padding: 50px;">
+<div align="center" style="background-image: url('https://telegra.ph/file/ce53acb55ce31381b1ead.jpg'); background-size: cover; padding: 50px;">
   <img src="https://telegra.ph/file/a2ab57912525f9e630c07.jpg" alt="Space Logo" width="400px">
   <br>
-"color: white;">Galactic Odyssey</h1>
-</div>
 
 <!-- ASCII Art Spaceship -->
 <div align="center">
